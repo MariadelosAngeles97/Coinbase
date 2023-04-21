@@ -14,5 +14,6 @@ const SecFooter = () => {
         </div>
     );
 }
+//Prueba numero dos de GIT
 
 export default SecFooter;
