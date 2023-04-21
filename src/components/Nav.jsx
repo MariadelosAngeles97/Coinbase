@@ -23,7 +23,7 @@ const Nav = () => {
             <div className="get-started">
                 {/* <button className="btn-sec-s" onClick={() => navigate('/login')}>Sign in</button> */}
                 <button className="btn-main-s" onClick={() => navigate('/login')}>Get started</button>
-
+                <button>Probando git</button>
             </div>
         </nav>
     );
