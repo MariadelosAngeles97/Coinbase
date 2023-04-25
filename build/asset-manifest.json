@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Coinbase/build/static/css/main.596fe9d7.css",
+    "main.js": "/Coinbase/build/static/js/main.3a60e066.js",
+    "static/js/787.60f831ff.chunk.js": "/Coinbase/build/static/js/787.60f831ff.chunk.js",
+    "static/media/chart.png": "/Coinbase/build/static/media/chart.a89ac6c9babf817a7aed.png",
+    "static/media/wallet.png": "/Coinbase/build/static/media/wallet.6ee5b70f8bac06371b73.png",
+    "static/media/bootstrap-icons.woff?": "/Coinbase/build/static/media/bootstrap-icons.6959d0d983ee318f8880.woff",
+    "static/media/bootstrap-icons.woff2?": "/Coinbase/build/static/media/bootstrap-icons.b2e5aab643c6f0fd2da6.woff2",
+    "static/media/luna.jpeg": "/Coinbase/build/static/media/luna.16e3b590875cb19294b3.jpeg",
+    "index.html": "/Coinbase/build/index.html",
+    "main.596fe9d7.css.map": "/Coinbase/build/static/css/main.596fe9d7.css.map",
+    "main.3a60e066.js.map": "/Coinbase/build/static/js/main.3a60e066.js.map",
+    "787.60f831ff.chunk.js.map": "/Coinbase/build/static/js/787.60f831ff.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.596fe9d7.css",
+    "static/js/main.3a60e066.js"
+  ]
+}
